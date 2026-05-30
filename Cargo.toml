@@ -1,0 +1,8 @@
+[package]
+name = "lau-fixedpoint"
+version = "0.1.0"
+edition = "2021"
+description = "Fixed-point arithmetic library for deterministic vibe computation (Q16.16)"
+license = "MIT"
+
+[dependencies]
